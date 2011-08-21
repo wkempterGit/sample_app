@@ -110,4 +110,4 @@ DEPENDENCIES
   spork (= 0.8.4)
   sqlite3-ruby
   webrat (= 0.7.1)
-  will_paginate (= 3.0pre2)
+  will_paginate (= 3.0.pre2)
